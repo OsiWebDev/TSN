@@ -1,0 +1,26 @@
+@font-face {
+    font-family:'cnn' ;
+    src: url(CNN\ Sans\ Display\ Medium.ttf);
+
+
+}
+h1{
+ font-family: 'cnn';
+}
+h3{
+    font-family: 'cnn';
+   }
+div{
+    background-color: black;
+    height: 50px;
+}
+div#frick{
+    background-color: blue;
+    height: 9px;
+}
+div#hanbon{
+    background-color: blue;
+    height: 50px;
+    width: 70px;
+    
+}
